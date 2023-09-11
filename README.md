@@ -1,1 +1,2 @@
-# 2023_BigBrain_workshop_BigBrains-BrainSpaces
+# 2023 HBHL BigBrain workshop:
+# From BigBrains to BrainSpaces
