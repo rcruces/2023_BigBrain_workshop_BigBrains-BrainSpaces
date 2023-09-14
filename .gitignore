@@ -1,4 +1,5 @@
 code/.ipynb_checkpoints/
 code/conp-dataset/
-code/histology_fslr32k.h5
+code/histology_*.h5
 code/Neurosynth
+code/__pycache__
