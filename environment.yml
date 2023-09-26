@@ -14,7 +14,5 @@ dependencies:
   - numpy=1.21.5
   - scipy=1.9.1
   - wordcloud==1.9.2
-  - pip
-  - pip:
-    - brainspace==0.1.10
-    - brainstat==0.4.2
+  - brainspace==0.1.10
+  - brainstat==0.4.2
