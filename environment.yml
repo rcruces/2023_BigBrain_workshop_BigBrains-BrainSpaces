@@ -1,0 +1,20 @@
+name: base
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9.13
+  - cmocean==3.0.3
+  - datalad==0.19.3
+  - datalad-installer==1.0.0
+  - git-annex
+  - h5py=3.7.0
+  - matplotlib
+  - nilearn==0.9.2
+  - numpy=1.21.5
+  - scipy=1.9.1
+  - wordcloud==1.9.2
+  - pip
+  - pip:
+    - brainspace==0.1.10
+    - brainstat==0.4.2
