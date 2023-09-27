@@ -17,5 +17,6 @@ dependencies:
   - vtk==9.2.2
   - pip
   - pip:
+    - opencv-python
     - brainspace
     - brainstat
