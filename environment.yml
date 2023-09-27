@@ -16,6 +16,7 @@ dependencies:
   - wordcloud==1.9.2
   - vtk==9.2.2
   - rise
+  - seaborn
   - pip
   - pip:
     - opencv-python
