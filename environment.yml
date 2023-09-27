@@ -15,9 +15,9 @@ dependencies:
   - scipy=1.9.1
   - wordcloud==1.9.2
   - vtk==9.2.2
+  - rise
   - pip
   - pip:
     - opencv-python
-    - jupyterlab-rise
     - brainspace
     - brainstat
