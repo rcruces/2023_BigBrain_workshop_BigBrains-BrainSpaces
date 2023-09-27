@@ -3,3 +3,5 @@
 </div>
 
 # 2023 HBHL BigBrain workshop: From BigBrains to BrainSpaces
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rcruces/2023_BigBrain_workshop_BigBrains-BrainSpaces/HEAD)
