@@ -4,7 +4,7 @@
 
 # 2023 HBHL BigBrain workshop: From BigBrains to BrainSpaces
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rcruces/2023_BigBrain_workshop_BigBrains-BrainSpaces/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rcruces/2023_BigBrain_workshop_BigBrains-BrainSpaces/HEAD?labpath=code%2FBBWS2023_fromBBtoBS_Tutorial1.ipynb)
 [![License: GPL v3](https://img.shields.io/github/license/rcruces/2023_BigBrain_workshop_BigBrains-BrainSpaces?color=blue)](https://www.gnu.org/licenses/gpl-3.0)
 [![GitHub stars](https://img.shields.io/github/stars/rcruces/2023_BigBrain_workshop_BigBrains-BrainSpaces?color=brightgreen)](https://github.com/rcruces/2023_BigBrain_workshop_BigBrains-BrainSpaces/stargazers)
 
